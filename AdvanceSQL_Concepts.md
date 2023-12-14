@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/
