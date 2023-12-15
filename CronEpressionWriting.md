@@ -1,4 +1,4 @@
-### <seconds><minutes><hours><day-of-month><month><day-of-week><year>
+### "<seconds><minutes><hours><day-of-month><month><day-of-week><year>"
 
 ? - only month and week can have this, Represents any arbitrary value. This can be used only in day-of-month and day-of-week fields
 
